@@ -1,7 +1,7 @@
 import discord
 
 client = discord.Client()
-token = "" # your token
+token = "" #MTE3ODc1MzkwNTc1NzI3ODI0OA.G88leD.OjFu3wU-Qa4fIAHKEcbIgh5iTEXUosW6pDz3C8
 
 @client.event
 async def on_ready():
